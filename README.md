@@ -6,6 +6,11 @@ My project link( test my project):  https://red-pebble-0e7c43c10.1.azurestaticap
 
 In this website you can read about the different food blogs and you can also find the location of restaurnt .
 
+image of home page of website
+
+![Screenshot 2022-05-13 221955](https://user-images.githubusercontent.com/97299245/168331194-06e19a3b-d63e-4187-a8c6-ddfa8421adb9.png)
+
+
 some of the image taken or steps followed while deployoing the website into azure.
 
 1. Create a static web app service.
